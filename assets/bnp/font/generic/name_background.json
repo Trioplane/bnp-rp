@@ -1,0 +1,24 @@
+{
+    "providers": [
+      {
+        "type": "bitmap",
+        "file": "bnp:font/generic/name_background.png",
+        "height": 7,
+        "ascent": 7,
+        "chars": [
+          "ABC"
+        ]
+      },
+      {
+        "type": "space",
+        "advances": {
+          "+": 1,
+          "-": -1,
+          "=": -2,
+          "#": -4,
+          "%": -8
+        }
+      }
+    ]
+  }
+  

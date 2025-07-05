@@ -1,0 +1,23 @@
+{
+    "main.game_starting": {
+        "subtitle": "\"Game Starting\" plays",
+        "sounds": [{
+            "name": "bnp:main/game_starting",
+            "stream": true
+        }]
+    },
+    "games.springchase.springchase_theme": {
+        "subtitle": "\"Springchase Theme\" plays",
+        "sounds": [{
+            "name": "bnp:games/springchase/springchase_theme",
+            "stream": true
+        }]
+    },
+    "games.cv.chicken_volleyball_theme": {
+        "subtitle": "\"Chicken Volleyballl Theme\" plays",
+        "sounds": [{
+            "name": "bnp:games/cv/chicken_volleyball_theme",
+            "stream": true
+        }]
+    }
+}
