@@ -61,10 +61,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "acacia_trapdoor"
         },
         {
@@ -74,10 +70,6 @@
         {
           "type": "minecraft:item",
           "name": "activator_rail"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "air"
         },
         {
           "type": "minecraft:item",
@@ -106,10 +98,6 @@
         {
           "type": "minecraft:item",
           "name": "andesite_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "andesite_stairs"
         },
         {
           "type": "minecraft:item",
@@ -209,10 +197,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "bamboo_mosaic_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "bamboo_planks"
         },
         {
@@ -230,10 +214,6 @@
         {
           "type": "minecraft:item",
           "name": "bamboo_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "bamboo_stairs"
         },
         {
           "type": "minecraft:item",
@@ -341,10 +321,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "birch_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "birch_trapdoor"
         },
         {
@@ -414,10 +390,6 @@
         {
           "type": "minecraft:item",
           "name": "blackstone_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "blackstone_stairs"
         },
         {
           "type": "minecraft:item",
@@ -574,10 +546,6 @@
         {
           "type": "minecraft:item",
           "name": "brick_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "brick_stairs"
         },
         {
           "type": "minecraft:item",
@@ -809,10 +777,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "cherry_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "cherry_trapdoor"
         },
         {
@@ -941,10 +905,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "cobbled_deepslate_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "cobbled_deepslate_wall"
         },
         {
@@ -954,10 +914,6 @@
         {
           "type": "minecraft:item",
           "name": "cobblestone_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "cobblestone_stairs"
         },
         {
           "type": "minecraft:item",
@@ -1153,10 +1109,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "crimson_stem"
         },
         {
@@ -1178,10 +1130,6 @@
         {
           "type": "minecraft:item",
           "name": "cut_copper_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "cut_copper_stairs"
         },
         {
           "type": "minecraft:item",
@@ -1325,10 +1273,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "dark_oak_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "dark_oak_trapdoor"
         },
         {
@@ -1342,14 +1286,6 @@
         {
           "type": "minecraft:item",
           "name": "dark_prismarine_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "dark_prismarine_stairs"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "daylight_detector"
         },
         {
           "type": "minecraft:item",
@@ -1433,10 +1369,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "deepslate_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "deepslate_brick_wall"
         },
         {
@@ -1478,10 +1410,6 @@
         {
           "type": "minecraft:item",
           "name": "deepslate_tile_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "deepslate_tile_stairs"
         },
         {
           "type": "minecraft:item",
@@ -1554,10 +1482,6 @@
         {
           "type": "minecraft:item",
           "name": "diorite_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "diorite_stairs"
         },
         {
           "type": "minecraft:item",
@@ -1669,10 +1593,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "end_stone_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "end_stone_brick_wall"
         },
         {
@@ -1730,10 +1650,6 @@
         {
           "type": "minecraft:item",
           "name": "exposed_cut_copper_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "exposed_cut_copper_stairs"
         },
         {
           "type": "minecraft:item",
@@ -1974,10 +1890,6 @@
         {
           "type": "minecraft:item",
           "name": "granite_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "granite_stairs"
         },
         {
           "type": "minecraft:item",
@@ -2369,10 +2281,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "jungle_trapdoor"
         },
         {
@@ -2454,130 +2362,6 @@
         {
           "type": "minecraft:item",
           "name": "lever"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_banner"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_bed"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_bundle"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_candle"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_carpet"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_concrete"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_concrete_powder"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_dye"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_glazed_terracotta"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_shulker_box"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_stained_glass"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_stained_glass_pane"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_terracotta"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_blue_wool"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_banner"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_bed"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_bundle"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_candle"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_carpet"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_concrete"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_concrete_powder"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_dye"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_glazed_terracotta"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_shulker_box"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_stained_glass"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_stained_glass_pane"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_terracotta"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_gray_wool"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "light_weighted_pressure_plate"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "lightning_rod"
         },
         {
           "type": "minecraft:item",
@@ -2785,10 +2569,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mangrove_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "mangrove_trapdoor"
         },
         {
@@ -2849,19 +2629,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "mossy_cobblestone_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "mossy_cobblestone_wall"
         },
         {
           "type": "minecraft:item",
           "name": "mossy_stone_brick_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "mossy_stone_brick_stairs"
         },
         {
           "type": "minecraft:item",
@@ -2882,10 +2654,6 @@
         {
           "type": "minecraft:item",
           "name": "mud_brick_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "mud_brick_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3010,10 +2778,6 @@
         {
           "type": "minecraft:item",
           "name": "nether_brick_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "nether_brick_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3165,10 +2929,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "oak_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "oak_trapdoor"
         },
         {
@@ -3182,10 +2942,6 @@
         {
           "type": "minecraft:item",
           "name": "obsidian"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "ochre_froglight"
         },
         {
           "type": "minecraft:item",
@@ -3297,10 +3053,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "oxidized_cut_copper_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "packed_ice"
         },
         {
@@ -3381,10 +3133,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "pale_oak_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "pale_oak_trapdoor"
         },
         {
@@ -3394,10 +3142,6 @@
         {
           "type": "minecraft:item",
           "name": "paper"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "pearlescent_froglight"
         },
         {
           "type": "minecraft:item",
@@ -3525,10 +3269,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "polished_andesite_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "polished_basalt"
         },
         {
@@ -3538,10 +3278,6 @@
         {
           "type": "minecraft:item",
           "name": "polished_blackstone_brick_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "polished_blackstone_brick_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3565,10 +3301,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "polished_blackstone_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "polished_blackstone_wall"
         },
         {
@@ -3578,10 +3310,6 @@
         {
           "type": "minecraft:item",
           "name": "polished_deepslate_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "polished_deepslate_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3597,10 +3325,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "polished_diorite_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "polished_granite"
         },
         {
@@ -3609,19 +3333,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "polished_granite_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "polished_tuff"
         },
         {
           "type": "minecraft:item",
           "name": "polished_tuff_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "polished_tuff_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3661,10 +3377,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "prismarine_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "prismarine_bricks"
         },
         {
@@ -3678,10 +3390,6 @@
         {
           "type": "minecraft:item",
           "name": "prismarine_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "prismarine_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3781,10 +3489,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "purpur_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "quartz"
         },
         {
@@ -3802,10 +3506,6 @@
         {
           "type": "minecraft:item",
           "name": "quartz_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "quartz_stairs"
         },
         {
           "type": "minecraft:item",
@@ -3909,10 +3609,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "red_nether_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "red_nether_brick_wall"
         },
         {
@@ -3930,10 +3626,6 @@
         {
           "type": "minecraft:item",
           "name": "red_sandstone_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "red_sandstone_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4005,10 +3697,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "resin_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "resin_brick_wall"
         },
         {
@@ -4062,10 +3750,6 @@
         {
           "type": "minecraft:item",
           "name": "sandstone_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "sandstone_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4141,10 +3825,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "shroomlight"
-        },
-        {
-          "type": "minecraft:item",
           "name": "shulker_box"
         },
         {
@@ -4205,10 +3885,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_quartz_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "smooth_red_sandstone"
         },
         {
@@ -4217,19 +3893,11 @@
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_red_sandstone_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "smooth_sandstone"
         },
         {
           "type": "minecraft:item",
           "name": "smooth_sandstone_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "smooth_sandstone_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4365,10 +4033,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "spruce_trapdoor"
         },
         {
@@ -4401,10 +4065,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "stone_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "stone_brick_wall"
         },
         {
@@ -4434,10 +4094,6 @@
         {
           "type": "minecraft:item",
           "name": "stone_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "stone_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4673,10 +4329,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "tuff_brick_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "tuff_brick_wall"
         },
         {
@@ -4686,10 +4338,6 @@
         {
           "type": "minecraft:item",
           "name": "tuff_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "tuff_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4714,10 +4362,6 @@
         {
           "type": "minecraft:item",
           "name": "vault"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "verdant_froglight"
         },
         {
           "type": "minecraft:item",
@@ -4789,10 +4433,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "warped_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "warped_stem"
         },
         {
@@ -4841,10 +4481,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "waxed_cut_copper_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "waxed_exposed_chiseled_copper"
         },
         {
@@ -4874,10 +4510,6 @@
         {
           "type": "minecraft:item",
           "name": "waxed_exposed_cut_copper_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "waxed_exposed_cut_copper_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4913,10 +4545,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "waxed_oxidized_cut_copper_stairs"
-        },
-        {
-          "type": "minecraft:item",
           "name": "waxed_weathered_chiseled_copper"
         },
         {
@@ -4946,10 +4574,6 @@
         {
           "type": "minecraft:item",
           "name": "waxed_weathered_cut_copper_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "waxed_weathered_cut_copper_stairs"
         },
         {
           "type": "minecraft:item",
@@ -4986,10 +4610,6 @@
         {
           "type": "minecraft:item",
           "name": "weathered_cut_copper_slab"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "weathered_cut_copper_stairs"
         },
         {
           "type": "minecraft:item",

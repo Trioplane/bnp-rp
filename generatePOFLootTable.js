@@ -1,6 +1,6 @@
 const VERSION = "1.21.4"
 const MCMETA = `https://raw.githubusercontent.com/misode/mcmeta/refs/tags`
-const exclude = ["spawn_egg", "command_block", "jigsaw_block","structure","minecraft:light","potion","barrier","bedrock","minecraft:air"]
+const exclude = ["spawn_egg", "command_block", "jigsaw_block","structure","light","potion","barrier","bedrock","air"]
 
 async function generateLootTableOfAllItems(excludeKeywords) {
     const items = (await (await fetch(`${MCMETA}/${VERSION}-registries/item/data.json`)).json()).filter(itemName => {
